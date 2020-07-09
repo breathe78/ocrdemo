@@ -3,8 +3,8 @@ package com.example.ocremo.controller;
 
 import com.alibaba.fastjson.JSONObject;
 import com.example.ocrdemo.entity.EmployeeRequest;
-import com.example.ocrdemo.util.BaiduUtil;
 
+import com.example.ocremo.util.BaiduUtil;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
